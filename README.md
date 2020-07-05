@@ -55,7 +55,7 @@ Call your function in the loop.
 ## Example
 
 ```c++
-#include <Millis.h>
+#include <millis.h>
 Millis ms(1000);
 
 void loop(){
